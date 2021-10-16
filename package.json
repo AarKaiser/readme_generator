@@ -1,0 +1,28 @@
+{
+  "name": "08_readme_generator",
+  "version": "1.0.0",
+  "description": "A script that generates a README after getting inputs on CLI.",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AarKaiser/readme_generator.git"
+  },
+  "keywords": [
+    "README",
+    "JavaScript",
+    "Inquirer"
+  ],
+  "author": "Aar Kaiser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AarKaiser/readme_generator/issues"
+  },
+  "homepage": "https://github.com/AarKaiser/readme_generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
