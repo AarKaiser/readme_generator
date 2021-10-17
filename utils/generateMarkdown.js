@@ -14,69 +14,72 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  return `## Licenses:
+  return `
+## Licenses:
 
-          ${renderLicenseBadge(license)}
-          ${renderLicenseLink(license)}
-  ` || '';
+${renderLicenseBadge(license)}
+${renderLicenseLink(license)}
+` || '';
 }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
-          # ${data.title}
+# ${data.title}
           
-          ## Description:
-              Motivation: - ${data.description1}.
-              Reason for Application: - ${data.description2}.
-              Problem Solved: - ${data.description3}.
-              Lessons: - ${data.description4}.
+## Description:
 
-          ## Table of Contents:
+Summary: - ${data.description}.
+Motivation: - ${data.description1}.
+Reason for Application: - ${data.description2}.
+Problem Solved: - ${data.description3}.
+Lessons: - ${data.description4}.
 
-          1. [Installation] (https://github.com/AarKaiser/readme_generator#installation)
-          2. [Usage] (https://github.com/AarKaiser/readme_generator#usage)
-          3. [Contributing] (https://github.com/AarKaiser/readme_generator#contributing)
-          4. [Licenses] (https://github.com/AarKaiser/readme_generator#licenses)
-          5. [Tests] (https://github.com/AarKaiser/readme_generator#tests)
-          6. [Technologies] (https://github.com/AarKaiser/readme_generator#technologies)
-          7. [Questions] (https://github.com/AarKaiser/readme_generator#questions)
-          8. [Screenshot] (https://github.com/AarKaiser/readme_generator#screenshot)
+## Table of Contents:
 
-          ## Installation: 
-          
-          ${data.installation}.
+1. [Installation] (https://github.com/AarKaiser/readme_generator#installation)
+2. [Usage] (https://github.com/AarKaiser/readme_generator#usage)
+3. [Contributing] (https://github.com/AarKaiser/readme_generator#contributing)
+4. [Licenses] (https://github.com/AarKaiser/readme_generator#licenses)
+5. [Tests] (https://github.com/AarKaiser/readme_generator#tests)
+6. [Technologies] (https://github.com/AarKaiser/readme_generator#technologies)
+7. [Questions] (https://github.com/AarKaiser/readme_generator#questions)
+8. [Screenshot] (https://github.com/AarKaiser/readme_generator#screenshot)
 
-          ## Dependencies:
+## Installation: 
 
-          This application requires: ${data.dependency}.
+${data.installation}.
 
-          ## Usage: 
-          
-          ${data.usage}
+## Dependencies:
 
-          ## Contributing:
+This application requires: ${data.dependency}.
 
-          ${data.contributors}
+## Usage: 
 
-          ${renderLicenseSection(data.license)}
+${data.usage}
 
-          ## Tests:
+## Contributing:
 
-          ${data.tests}
+${data.contributors}
 
-          ## Technologies Used: 
-          
-            This application uses the following technologies: ${data.technologies.join(', ')}.
+${renderLicenseSection(data.license)}
 
-          ## Questions:
+## Tests:
 
-            Github: https://www.github.com/${data.github}
-            Email: ${data.email}.
-            
-          Please feel free to contact me with further questions via ${data.preferredcontact}, which is my prefered method.
+${data.tests}
 
-          ## Screenshot
+## Technologies Used: 
+
+This application uses the following technologies: ${data.technologies.join(', ')}.
+
+## Questions:
+
+Github: https://www.github.com/${data.github}
+Email: ${data.email}.
+
+Please feel free to contact me with further questions via ${data.preferredcontact}, which is my prefered method.
+
+## Screenshot
 `;
 }
 

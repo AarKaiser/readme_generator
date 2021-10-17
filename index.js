@@ -12,6 +12,11 @@ const questions = [
       message: 'Please enter the name of your application:',
     },
     {
+      type: 'input',
+      name: 'description',
+      message: 'Please provide a brief summary description of your app:',
+    },
+    {
         type: 'input',
         name: 'description1',
         message: 'What was your motiviation for creating this application?',
