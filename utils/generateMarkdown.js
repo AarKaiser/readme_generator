@@ -76,7 +76,7 @@ function generateMarkdown(data) {
             
           Please feel free to contact me with further questions via ${data.preferredcontact}, which is my prefered method.
 
-        ## Screenshot
+          ## Screenshot
 `;
 }
 
