@@ -10,15 +10,15 @@ Lessons: - Debugging, passing data and functions.
 
 ## Table of Contents:
 
-1. ![Installation](https://github.com/AarKaiser/readme_generator#installation)
-2. ![Usage](https://github.com/AarKaiser/readme_generator#usage)
-3. ![Contributing](https://github.com/AarKaiser/readme_generator#contributing)
-4. ![Licenses](https://github.com/AarKaiser/readme_generator#licenses)
-5. ![Tests](https://github.com/AarKaiser/readme_generator#tests)
-6. ![Technologies](https://github.com/AarKaiser/readme_generator#technologies-used)
-7. ![Questions](https://github.com/AarKaiser/readme_generator#questions)
-8. ![Screenshot](https://github.com/AarKaiser/readme_generator#screenshot)
-9. ![Walkthrough Video](https://github.com/AarKaiser/readme_generator#walkthrough-video)
+1. [Installation](https://github.com/AarKaiser/readme_generator#installation)
+2. [Usage](https://github.com/AarKaiser/readme_generator#usage)
+3. [Contributing](https://github.com/AarKaiser/readme_generator#contributing)
+4. [Licenses](https://github.com/AarKaiser/readme_generator#licenses)
+5. [Tests](https://github.com/AarKaiser/readme_generator#tests)
+6. [Technologies](https://github.com/AarKaiser/readme_generator#technologies-used)
+7. [Questions](https://github.com/AarKaiser/readme_generator#questions)
+8. [Screenshot](https://github.com/AarKaiser/readme_generator#screenshot)
+9. [Walkthrough Video](https://github.com/AarKaiser/readme_generator#walkthrough-video)
 
 ## Installation: 
           
@@ -62,4 +62,4 @@ Please feel free to contact me with further questions via email, which is my pre
         
 ## Walkthough Video
     
-![Download](https://github.com/AarKaiser/readme_generator/blob/main/assets/video/walkthrough.mp4?raw=true)
+[Download](https://github.com/AarKaiser/readme_generator/blob/main/assets/video/walkthrough.mp4?raw=true)
