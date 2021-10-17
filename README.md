@@ -2,6 +2,7 @@
           
 ## Description:
 
+Description Summar: - An application to automatically generate a usable README file using Node prompts and packages.
 Motivation: - To be more efficient (lazy)
 Reason for Application: - To save myself time creating READMEs
 Problem Solved: - Time wasted making README files.
@@ -38,7 +39,7 @@ Aar Kaiser, Mr. Robot.
 ## Licenses:
 
 ![License Badge](https://img.shields.io/badge/MIT-License-blue)
-Click ![here](https://choosealicense.com/licenses/MIT) for MIT license information
+Click ![here](https://choosealicense.com/licenses/mit/) for MIT license information
 
 ## Tests:
         
