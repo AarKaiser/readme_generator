@@ -1,14 +1,14 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  return `![License Badge] (https://img.shields.io/badge/${license}-License-blue)`|| '';
+  return `![License Badge] (https://img.shields.io/badge/${license.toLowerCase()}-license-blue)`|| '';
 
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  return `Click [here] (https://choosealicense.com/licenses/${license}) for ${license} license information` || '';
+  return `Click [here] (https://choosealicense.com/licenses/${license.toLowerCase()}) for ${license} license information` || '';
 }
 
 // TODO: Create a function that returns the license section of README
@@ -74,8 +74,8 @@ This application uses the following technologies: ${data.technologies.join(', ')
 
 ## Questions:
 
-Github: https://www.github.com/${data.github}
-Email: ${data.email}.
+Github: https://www.github.com/${data.github.toLowerCase()}
+Email: ${data.email.toLowerCase()}.
 
 Please feel free to contact me with further questions via ${data.preferredcontact}, which is my prefered method.
 
