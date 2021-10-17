@@ -39,7 +39,7 @@ Aar Kaiser, Mr. Robot.
 ## Licenses:
 
 ![License Badge](https://img.shields.io/badge/MIT-License-blue)
-Click ![here](https://choosealicense.com/licenses/mit/) for MIT license information
+Click [here](https://choosealicense.com/licenses/mit/) for MIT license information
 
 ## Tests:
         
