@@ -1,22 +1,59 @@
-The following folder contains Assignment 8 (README Generator), of the fulltime UofT School of Continuing Studies Full Stack Developer September cohort, created and submitted by student Mo Aar Hussein (Aar Kaiser).
 
-Contents of this folder are:
+          # Node README Generator
+          
+          ## Description:
+              Motivation: - To be more efficient (lazy)
+              Reason for Application: - To save myself time creating READMEs
+              Problem Solved: - Time wasted making README files.
+              Lessons: - Debugging, passing data and functions.
 
-1) This README.me file.
-2) An "index.js" and it's associated "utils" folder.
-4) These files are all hosted on a repository and the finished assignment can be accessed directly at "/" on  a browser.
-5) The Github repo for the assignment is available at "https://github.com/AarKaiser/readme_generator"
+          ## Table of Contents:
 
-Technologies Used:
+          1. Installation
+          2. Usage
+          3. Contributing
+          4. Licenses
+          5. Tests
+          6. Technologies
+          7. Questions
+          8. Screenshot
 
-1. HTML
-2. CSS
-3. JavaScript
-4. Node Package Manager
-5. Inquirer Package
+          ## Installation: Type 'npm i' in node.
 
-Screenshot:
+          ## Dependencies:
 
-<img width="1434" alt="Deployed Project Screenshot Screen Shot" src="https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png">
+          This application requires: Inquirer.
 
-You do not need to read this README to access this assignment.
+          ## Usage: Answer each question you are prompted, and a README will be generated.
+
+          ## Contributing:
+
+          Aar Kaiser, Mr. Robot.
+
+          ## Licenses:
+
+          ## Licenses:
+          ![License Badge] (https://img.shields.io/badge/MIT-License-blue)
+          Click [here] (https://choosealicense.com/licenses/MIT) for MIT license information
+  
+
+          ## Tests:
+
+          Run it. If it doesn't work, then it doesn't work!
+
+          ## Technologies Used: 
+          
+            This application uses the following technologies: JavaScript, Node.
+
+          ## Questions: 
+            Github: https://www.github.com/AarKaiser
+            Email: dev@aarkaiser.com.
+            
+          Please feel free to contact me with further questions via email, which is my prefered method.
+
+        ## Screenshot
+        
+        <img width="1434" alt="Deployed Project Screenshot Screen Shot" src="https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png"></img>
+
+        
+
