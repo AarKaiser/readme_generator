@@ -9,7 +9,7 @@
 
           ## Table of Contents:
 
-          1. [Installation] (https://github.com/AarKaiser/readme_generator#installation)
+          1. Installation [Installation] (https://github.com/AarKaiser/readme_generator#installation)
           2. [Usage] (https://github.com/AarKaiser/readme_generator#usage)
           3. [Contributing] (https://github.com/AarKaiser/readme_generator#contributing)
           4. [Licenses] (https://github.com/AarKaiser/readme_generator#licenses)
@@ -17,6 +17,7 @@
           6. [Technologies] (https://github.com/AarKaiser/readme_generator#technologies)
           7. [Questions] (https://github.com/AarKaiser/readme_generator#questions)
           8. [Screenshot] (https://github.com/AarKaiser/readme_generator#screenshot)
+          9. [Walkthrough Video] (https://github.com/AarKaiser/readme_generator#walkthrough_video)
 
           ## Installation: 
           
