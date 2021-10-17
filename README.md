@@ -1,5 +1,5 @@
 
-          # Node README Generator
+          # README Generator
           
           ## Description:
               Motivation: - To be more efficient (lazy)
