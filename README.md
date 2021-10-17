@@ -27,7 +27,7 @@
 
     This application requires: Inquirer.
 
-    ## Usage:
+## Usage:
           
     Answer each question you are prompted, and a README will be generated.
 
@@ -37,12 +37,12 @@
 
 ## Licenses:
 
-    ![License Badge] (https://img.shields.io/badge/MIT-License-blue)
+    ![License Badge](https://img.shields.io/badge/MIT-License-blue)
     Click [here] (https://choosealicense.com/licenses/MIT) for MIT license information
 
 ## Tests:
         
-        Run it. If it doesn't work, then it doesn't work!
+    Run it. If it doesn't work, then it doesn't work!
 
 ## Technologies Used: 
           
@@ -55,12 +55,12 @@
             
     Please feel free to contact me with further questions via email, which is my prefered method.
 
-        ## Screenshot
+## Screenshot
         
-            ![Screenshot] (https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png)
+    ![Screenshot](https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png)
         
-        ## Walkthough Video
+## Walkthough Video
         
-            [Download] (https://github.com/AarKaiser/readme_generator/blob/main/assets/video/walkthrough.mp4?raw=true)
+    [Download] (https://github.com/AarKaiser/readme_generator/blob/main/assets/video/walkthrough.mp4?raw=true)
         
 
