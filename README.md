@@ -57,6 +57,10 @@
 
         ## Screenshot
         
-        ![Screenshot] (https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png)
+            ![Screenshot] (https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png)
+        
+        ## Walkthough Video
+        
+            [Download] (https://github.com/AarKaiser/readme_generator/blob/main/assets/video/walkthrough.mp4?raw=true)
         
 
