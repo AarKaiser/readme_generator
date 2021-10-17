@@ -36,8 +36,6 @@
 
           ## Licenses:
 
-          ## Licenses:
-
           ![License Badge] (https://img.shields.io/badge/MIT-License-blue)
           Click [here] (https://choosealicense.com/licenses/MIT) for MIT license information
   
@@ -59,7 +57,6 @@
 
         ## Screenshot
         
-        <img width="1434" alt="Deployed Project Screenshot Screen Shot" src="https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png"></img>
-
+        ![Screenshot] (https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png)
         
 
