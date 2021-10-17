@@ -9,7 +9,7 @@
 
           ## Table of Contents:
 
-          1. Installation [Installation] (https://github.com/AarKaiser/readme_generator#installation)
+          1. [Installation] (https://github.com/AarKaiser/readme_generator#installation)
           2. [Usage] (https://github.com/AarKaiser/readme_generator#usage)
           3. [Contributing] (https://github.com/AarKaiser/readme_generator#contributing)
           4. [Licenses] (https://github.com/AarKaiser/readme_generator#licenses)
@@ -39,7 +39,6 @@
 
           ![License Badge] (https://img.shields.io/badge/MIT-License-blue)
           Click [here] (https://choosealicense.com/licenses/MIT) for MIT license information
-  
 
           ## Tests:
 
