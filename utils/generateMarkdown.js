@@ -15,6 +15,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   return `## Licenses:
+
           ${renderLicenseBadge(license)}
           ${renderLicenseLink(license)}
   ` || '';
@@ -42,19 +43,21 @@ function generateMarkdown(data) {
           7. Questions
           8. Screenshot
 
-          ## Installation: ${data.installation}
+          ## Installation: 
+          
+          ${data.installation}.
 
           ## Dependencies:
 
           This application requires: ${data.dependency}.
 
-          ## Usage: ${data.usage}
+          ## Usage: 
+          
+          ${data.usage}
 
           ## Contributing:
 
           ${data.contributors}
-
-          ## Licenses:
 
           ${renderLicenseSection(data.license)}
 
@@ -66,7 +69,8 @@ function generateMarkdown(data) {
           
             This application uses the following technologies: ${data.technologies.join(', ')}.
 
-          ## Questions: 
+          ## Questions:
+
             Github: https://www.github.com/${data.github}
             Email: ${data.email}.
             

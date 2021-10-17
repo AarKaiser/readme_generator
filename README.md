@@ -18,13 +18,17 @@
           7. Questions
           8. Screenshot
 
-          ## Installation: Type 'npm i' in node.
+          ## Installation: 
+          
+          Type 'npm i' in node.
 
           ## Dependencies:
 
           This application requires: Inquirer.
 
-          ## Usage: Answer each question you are prompted, and a README will be generated.
+          ## Usage:
+          
+          Answer each question you are prompted, and a README will be generated.
 
           ## Contributing:
 
@@ -33,6 +37,7 @@
           ## Licenses:
 
           ## Licenses:
+
           ![License Badge] (https://img.shields.io/badge/MIT-License-blue)
           Click [here] (https://choosealicense.com/licenses/MIT) for MIT license information
   
@@ -45,7 +50,8 @@
           
             This application uses the following technologies: JavaScript, Node.
 
-          ## Questions: 
+          ## Questions:
+
             Github: https://www.github.com/AarKaiser
             Email: dev@aarkaiser.com.
             
