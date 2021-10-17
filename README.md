@@ -46,10 +46,10 @@
 
           ## Technologies Used: 
           
-            This application uses the following technologies: JavaScript, Node.
+          This application uses the following technologies: JavaScript, Node.
 
           ## Questions:
-
+            
             Github: https://www.github.com/AarKaiser
             Email: dev@aarkaiser.com.
             
