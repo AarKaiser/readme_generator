@@ -34,7 +34,7 @@ Answer each question you are prompted, and a README will be generated.
 
 ## Contributing:
 
-Aar Kaiser, Mr. Robot.
+Aar Kaiser.
 
 ## Licenses:
 

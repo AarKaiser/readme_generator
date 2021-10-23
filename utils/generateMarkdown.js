@@ -1,14 +1,14 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-  return `![License Badge] (https://img.shields.io/badge/${license.toLowerCase()}-license-blue)`|| '';
+  return `![License Badge](https://img.shields.io/badge/${license.toLowerCase()}-license-blue)`;
 
 }
 
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
-  return `Click [here] (https://choosealicense.com/licenses/${license.toLowerCase()}) for ${license} license information` || '';
+  return `Click [here](https://choosealicense.com/licenses/${license.toLowerCase()}) for ${license} license information`;
 }
 
 // TODO: Create a function that returns the license section of README
@@ -37,14 +37,14 @@ Lessons: - ${data.description4}.
 
 ## Table of Contents:
 
-1. [Installation] (https://github.com/AarKaiser/readme_generator#installation)
-2. [Usage] (https://github.com/AarKaiser/readme_generator#usage)
-3. [Contributing] (https://github.com/AarKaiser/readme_generator#contributing)
-4. [Licenses] (https://github.com/AarKaiser/readme_generator#licenses)
-5. [Tests] (https://github.com/AarKaiser/readme_generator#tests)
-6. [Technologies] (https://github.com/AarKaiser/readme_generator#technologies)
-7. [Questions] (https://github.com/AarKaiser/readme_generator#questions)
-8. [Screenshot] (https://github.com/AarKaiser/readme_generator#screenshot)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Licenses](#licenses)
+5. [Tests](#tests)
+6. [Technologies](#technologies)
+7. [Questions](#questions)
+8. [Screenshot](#screenshot)
 
 ## Installation: 
 

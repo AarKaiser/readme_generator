@@ -71,7 +71,7 @@ const questions = [
       type: 'list',
       message: 'What licensing method would you like to use for your application?',
       name: 'license',
-      choices: ['APM', 'MIT', 'GitHub', 'Packagist', 'none'],
+      choices: ['APM', 'MIT', 'GitHub', 'Packagist'],
     },
     {
       type: 'list',
