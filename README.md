@@ -60,6 +60,6 @@ Please feel free to contact me with further questions via email, which is my pre
         
 ![Screenshot](https://raw.githubusercontent.com/AarKaiser/readme_generator/main/assets/images/screenshot.png)
         
-## Walkthough Video
+## Walkthrough Video
     
 [Download](https://github.com/AarKaiser/readme_generator/blob/main/assets/video/walkthrough.mp4?raw=true)
