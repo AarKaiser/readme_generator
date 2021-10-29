@@ -34,7 +34,7 @@ Answer each question you are prompted, and a README will be generated.
 
 ## Contributing:
 
-Aar Kaiser.
+[Aar Kaiser](https://www.github.com/aarkaiser)
 
 ## Licenses:
 
