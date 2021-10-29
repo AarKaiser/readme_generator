@@ -36,15 +36,15 @@ Problem Solved: - ${data.description3}.
 Lessons: - ${data.description4}.
 
 ## Table of Contents:
-
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [Licenses](#licenses)
-5. [Tests](#tests)
-6. [Technologies](#technologies)
-7. [Questions](#questions)
-8. [Screenshot](#screenshot)
+[${data.title}](#${data-title})
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Contributing](#contributing)
+  4. [Licenses](#licenses)
+  5. [Tests](#tests)
+  6. [Technologies](#technologies)
+  7. [Questions](#questions)
+  8. [Screenshot](#screenshot)
 
 ## Installation: 
 
@@ -60,7 +60,7 @@ ${data.usage}
 
 ## Contributing:
 
-${data.contributors}
+[${data.contributors}](https://www.github.com/${data.github.toLowerCase()})
 
 ${renderLicenseSection(data.license)}
 
@@ -80,6 +80,8 @@ Email: ${data.email.toLowerCase()}.
 Please feel free to contact me with further questions via ${data.preferredcontact}, which is my prefered method.
 
 ## Screenshot
+
+
 `;
 }
 
