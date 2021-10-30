@@ -36,7 +36,7 @@ Problem Solved: - ${data.description3}.
 Lessons: - ${data.description4}.
 
 ## Table of Contents:
-[${data.title}](#${data-title})
+[${data.title}](#${data.title})
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [Contributing](#contributing)
