@@ -36,7 +36,7 @@ Problem Solved: - ${data.description3}.
 Lessons: - ${data.description4}.
 
 ## Table of Contents:
-[${data.title}](#${data.title})
+- [${data.title}](#${data.title})
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [Contributing](#contributing)
@@ -77,7 +77,7 @@ This application uses the following technologies: ${data.technologies.join(', ')
 Github: https://www.github.com/${data.github.toLowerCase()}
 Email: ${data.email.toLowerCase()}.
 
-Please feel free to contact me with further questions via ${data.preferredcontact}, which is my prefered method.
+Please feel free to contact me with further questions via ${data.preferredcontact}, which is my preferred method.
 
 ## Screenshot
 
